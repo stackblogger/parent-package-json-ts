@@ -17,5 +17,5 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'import/export': 0
   },
-  ignorePatterns: ['dist', 'node_modules', '.eslintrc.js', 'rollup.config.js', '__tests__']
+  ignorePatterns: ['dist', 'node_modules', '.eslintrc.js', 'rollup.config.js', '__tests__', 'coverage']
 };
